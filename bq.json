@@ -1,0 +1,39 @@
+{
+    "BigQuery Schema": [{
+      "name": "Pregnancies",
+      "type": "STRING"
+     },
+     {
+      "name": "Glucose",
+      "type": "STRING"
+     },
+     {
+      "name": "BloodPressure",
+      "type": "STRING"
+     },
+     {
+      "name": "SkinThickness",
+      "type": "STRING"
+     },
+     {
+      "name": "Insulin",
+      "type": "STRING"
+     },
+     {
+        "name": "BMI",
+        "type": "STRING"
+     },
+     {
+        "name": "DiabetesPedigreeFunction",
+        "type": "STRING"
+     },
+     {
+        "name": "Age",
+        "type": "STRING"
+     },
+     {
+        "name": "Outcome",
+        "type": "STRING"
+     }
+    ]
+   }
